@@ -4,9 +4,10 @@ import Home from './Components/Home'
 
 function App() {
   return (
-    <div>
+    <div className='relative'>
     <Navbar></Navbar>
     <Home></Home>
+    
     </div>
   )
 }
