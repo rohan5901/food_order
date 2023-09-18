@@ -1,0 +1,15 @@
+.parallax{
+    background-image: url("./snacks.jpg");
+    
+    
+    height: 100vh;
+    
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+  background-attachment: fixed;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+}
